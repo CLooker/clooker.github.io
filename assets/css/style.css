@@ -211,7 +211,7 @@ h3,
   border-bottom: 0;
 }
 
-.hangmanSpan, .rpgSpan, .triviaSpan, .rutgersSpan, .rpsSpan {
+.hangmanSpan, .rpgSpan, .triviaSpan, .mcdonaldsSpan, .rpsSpan {
   width: 225px;
   height: 10px;
   position: absolute;
@@ -223,11 +223,11 @@ h3,
   opacity: 0.9;
 }
 
-.hangmanSpan:hover, .rpgSpan:hover, .triviaSpan:hover, .rutgersSpan:hover, .rpsSpan:hover {
+.work:hover span{
   opacity: 1;
 }
 
-#textHangman, #textRPG, #textTrivia, #textRutgers, #textRPS {
+#textHangman, #textRPG, #textTrivia, #textMcdonalds, #textRPS {
   margin-top: 10px;
   font-size: 120%;
   font-weight: 550;
