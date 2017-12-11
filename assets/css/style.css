@@ -165,7 +165,7 @@ h3,
   border: 1px solid #ddd;
 }
 
-.listTitle {
+ul li:first-child {
   list-style-type: none;
 }
 
