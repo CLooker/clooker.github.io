@@ -165,6 +165,10 @@ h3,
   border: 1px solid #ddd;
 }
 
+.listTitle {
+  list-style-type: none;
+}
+
 .listContainer ul {
   list-style-type: disc;
   list-style-position: inside;
