@@ -211,7 +211,7 @@ h3,
   border-bottom: 0;
 }
 
-.hangmanSpan, .rpgSpan, .triviaSpan, .mcdonaldsSpan, .rpsSpan {
+.workSpan {
   width: 225px;
   height: 10px;
   position: absolute;
@@ -227,7 +227,7 @@ h3,
   opacity: 1;
 }
 
-#textHangman, #textRPG, #textTrivia, #textMcdonalds, #textRPS {
+.workTitles {
   margin-top: 10px;
   font-size: 120%;
   font-weight: 550;
