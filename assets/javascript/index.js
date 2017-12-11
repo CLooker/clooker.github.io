@@ -14,11 +14,12 @@ $(document).ready(function() {
 		"https://github.com/CLooker/Hangman-Game",
 		"https://github.com/CLooker/Giphy-Generator",
 		"https://github.com/CLooker/bamazon",
-		"https://github.com/CLooker/If-McDonalds-Fits-Your-Calories"
+		"https://github.com/CLooker/If-McDonalds-Fits-Your-Calories",
+		"https://github.com/CLooker/udacity-react-project1"
 	];
 
 	function getRandomProject() {
-		window.open(projectArr[getRandomInt(0,12)]);
+		window.open(projectArr[getRandomInt(0,projectArr.length)]);
 	}
 
 	function getRandomInt(min, max) {
