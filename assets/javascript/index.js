@@ -19,7 +19,7 @@ $(document).ready(function() {
 	];
 
 	function getRandomProject() {
-		window.open(projectArr[getRandomInt(0,projectArr.length)]);
+		window.open(projectArr[getRandomInt(0,projectArr.length-1)]);
 	}
 
 	function getRandomInt(min, max) {
