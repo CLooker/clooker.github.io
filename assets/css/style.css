@@ -165,6 +165,10 @@ h3,
   border: 1px solid #ddd;
 }
 
+.contact {
+  clear: both;
+}
+
 ul li:first-child {
   list-style-type: none;
 }
