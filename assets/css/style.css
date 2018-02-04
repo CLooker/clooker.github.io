@@ -155,15 +155,26 @@ h3,
   padding-top: 130px;
 }
 
-.main-section {
+.boss-section {
   float: left;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-section {
   width: 100%;
   max-width: 650px;
   padding: 30px;
-  margin: 0 0 90px;
+  margin: 0 0 50px;
   background: #fff;
   border: 1px solid #ddd;
 }
+
+.main-section:last-child {
+  margin: 0 0 150px;
+}
+
+
 
 .contact {
   clear: both;
