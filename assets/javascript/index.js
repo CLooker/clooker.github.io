@@ -18,7 +18,8 @@ const projectArr = [
 	'https://github.com/CLooker/udacity-react-project1',
 	'https://github.com/CLooker/4clojure-solutions',
 	'https://github.com/CLooker/open-weather-dashboard',
-	'https://github.com/CLooker/HackerRank'
+	'https://github.com/CLooker/HackerRank',
+	'https://github.com/CLooker/react-redux-readable'
 ];
 
 function getRandomProject() {
