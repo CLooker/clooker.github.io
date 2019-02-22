@@ -182,17 +182,17 @@ ul li:first-child {
   list-style-type: none;
 }
 
-.listContainer ul {
+.list-container ul {
   list-style-type: disc;
   list-style-position: inside;
 }
 
-#list1 {
-  float: left;
+.list-container {
+  display: flex;
 }
 
-#list2 {
-  float: right;
+.list-container * {
+  margin: 0 2px;
 }
 
 /* portfolio page */
