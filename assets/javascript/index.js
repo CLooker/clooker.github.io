@@ -16,9 +16,11 @@ const projectArr = [
   'https://github.com/CLooker/If-McDonalds-Fits-Your-Calories',
   'https://github.com/CLooker/my-reads',
   'https://github.com/CLooker/4clojure-solutions',
-  'https://lit-ridge-37329.herokuapp.com/',
+  'https://github.com/CLooker/open-weather-dashboard',
   'https://github.com/CLooker/HackerRank',
-  'https://github.com/CLooker/react-redux-readable'
+  'https://github.com/CLooker/react-redux-readable',
+  'https://github.com/CLooker/LeetCode',
+  'https://github.com/CLooker/SICP'
 ];
 
 function getRandomProject() {
